@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="submitQuerArray">
+        <item>select issue</item>
+        <item>Issue 2</item>
+        <item>Issue 3</item>
+        <item>Issue 4</item>
+        <item>Issue 5</item>
+    </string-array>
+</resources>
